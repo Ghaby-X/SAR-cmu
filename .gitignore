@@ -6,3 +6,4 @@ data/*
 
 *build**
 weights/*
+**/__pycache__/**
